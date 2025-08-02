@@ -2,5 +2,5 @@ print("hello world")
 #hello
 
 print("Python Github LOL")
-print("dorimuhai")
+print("dori")
 # i am mashiro
